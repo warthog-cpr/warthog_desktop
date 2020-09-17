@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>warthog_viz</name>
-  <version>0.0.1</version>
+  <version>0.1.0</version>
   <description>Visualization launchers and helpers for Warthog.</description>
 
   <maintainer email="tbaltovski@clearpathrobotics.com">Tony Baltovski</maintainer>
