@@ -2,8 +2,8 @@
 Changelog for package warthog_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.1 (2022-01-18)
+------------------
 * [warthog_viz] Added rqt folder to be installed and add launch test for view_diagnostics.
 * Alphabetized and added rqt_gui as run_depend
 * Add view_diagnostics.launch
